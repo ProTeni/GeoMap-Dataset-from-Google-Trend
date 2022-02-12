@@ -9,8 +9,7 @@ Questions I was curiously queried the dataset on:
 
 3. How many vaccine doses have been administered between the date range?
 
-4. Which countries didn't have any vaccine record? Why? was it due to lack if resources to the vaccines 
-	or simply because they had no COVID record in the country?
+4. Which countries didn't have any vaccine record? Why? was it due to lack if resources to the vaccines or simply because they had no COVID record in the country?
 
 5. In a sentence, state the country and the number of vaccines that were adminstered within given the date range
 
